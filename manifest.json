@@ -1,0 +1,21 @@
+{
+  "name": "铁柱的博客",
+  "short_name": "tiezhu-blog",
+  "display": "standalone",
+  "background_color": "#fff",
+  "start_url": "/tiezhu-blog/",
+  "scope": "/tiezhu-blog/",
+  "description": "tiezhu-blogllallaal",
+  "icons": [
+    {
+      "src": "logo52.png",
+      "sizes": "52x52",
+      "type": "image/png"
+    },
+    {
+      "src": "logo288.png",
+      "sizes": "288x288",
+      "type": "image/png"
+    }
+  ]
+}
